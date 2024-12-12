@@ -22,6 +22,7 @@ I hope all is well! I just want to give you a brief introduction. My name is Yab
  - <b>⚡ Please feel free to clone my repo's for your own use! If you'd like additional help, then reach out via the platforms listed below. Also reach out if you'd like me to modify my code for you! Cheers, Yabi.</b> 
  
 <h2> 🤳 Connect with me:</h2>
+
 - <b>LinkedIn: https://www.linkedin.com/in/yabi/</b>
 - <b>Instagram: https://www.instagram.com/gyabsera/</b>
 - <b>Landing Page: https://www.yabi.dev/</b>
