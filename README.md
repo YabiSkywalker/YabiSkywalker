@@ -6,6 +6,8 @@ I hope all is well! I just want to give you a brief introduction. My name is Yab
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Bandera Backend API - A java microservice for managing day to day business ops in the Auto industry.</b>
+  - Bandera Service: (https://github.com/YabiSkywalker/bandera)
 - <b>Java WebClient & Rest Template feat. Swing GUI toolkit Practice</b>
   - Currency Converter: (https://github.com/YabiSkywalker/CurrencyConverter)
 - <b>Java CRUD Form & XLSX Database Practice</b>
