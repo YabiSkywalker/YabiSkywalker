@@ -4,7 +4,7 @@
 <p>Greetings and salutations,
 I hope all is well! I just want to give you a brief introduction. My name is Yabsera, or Yabi (Yah-bee) for short. I am an Ethiopian born American living in Chicago, IL USA working as an Associate Software Engineer in the Financial Services industry.</p>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development:</h2>
 
 - <b>Bandera Backend API - A java microservice for making CRUD operations against MongoDB, and AWS services.</b>
   - Bandera Service: (https://github.com/YabiSkywalker/bandera)
@@ -21,7 +21,7 @@ I hope all is well! I just want to give you a brief introduction. My name is Yab
 
  - <b>🔭 Digital work management platform for small businesses in the Auto industry!</b> 
  - <b>🌱 I’m also learning Terraform, and Automic UC4 (Event Scheduler).</b> 
- - <b>⚡ Please feel free to clone my repo's for your own use! If you'd like additional help, then reach out via the platforms listed below. Also reach out if you'd like me to modify my code for you! Cheers, Yabi.</b> 
+ - <b>⚡ Lastly, SwiftUI development for iOS applications.</b> 
  
 <h2> 🤳 Connect with me:</h2>
 
