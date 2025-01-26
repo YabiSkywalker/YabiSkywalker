@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Yabi! 👋👋<br/><a href="https://github.com/YabiSkywalker"></a> <a href="https://www.linkedin.com/in/yabi/">Software Engineer | CI/CD | DevOps</a>
+<h1>Hi, I'm Yabi! 👋👋<br/><a href="https://github.com/YabiSkywalker"></a> <a href="https://www.linkedin.com/in/yabi/">Software Engineer | DevOps</a>
 <h2>Intro</h2>
 <p>Greetings and salutations,
 I hope all is well! I just want to give you a brief introduction. My name is Yabsera, or Yabi (Yah-bee) for short. I am an Ethiopian born American living in Chicago, IL USA working as an Associate Software Engineer in the Financial Services industry.</p>
